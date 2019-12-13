@@ -1,26 +1,18 @@
-# react-native-switch-button
+# react-native-accessible-switch-button
 [![npm version](https://badge.fury.io/js/react-native-switch-button.svg)](https://badge.fury.io/js/react-native-switch-button)
 
 
 A cross-platform customisable accessible toggle button built upon react-native's TouchableOpacity and Animated APIs.
 
 
-### Why flip toggle?
+### toggle/switch
 
 Well, this toggle button  provides a label centered within the button which flips as per the toggle's on / off state.
 You have seen it on old iOS homescreen (swipe to unlock). react-native-switch-button uses Animated APIs useNativeDriver flag to offload animations from the JS thread and thus provide more responsive and seamless toggle transition even when the JS thread is busy. It is now accessible also for talback on android or voice over on ios.
 
-## Contents
-- Checkout this package on npm - [react-native-switch-button](https://www.npmjs.com/package/react-native-switch-button)
-- [Instructions](https://github.com/ashishpandey001/react-native-switch-button#instructions)
-- [Demo](https://github.com/ashishpandey001/react-native-switch-button#demo)
-- [Getting Started](https://github.com/ashishpandey001/react-native-switch-button#getting-started)
-- [API](https://github.com/ashishpandey001/react-native-switch-button#api)
-- [Issues](https://github.com/ashishpandey001/react-native-switch-button#issues)
-- [Contribute](https://github.com/ashishpandey001/react-native-switch-button#contribute)
 ## Instructions
-1. Run `yarn add react-native-switch-button` or `npm i react-native-switch-button --save`.
-2. Add `import FlipToggle from 'react-native-switch-button'` in your react-native application's source code.  
+1. Run `yarn add react-native-accessible-switch-button` or `npm i react-native-accessible-switch-button --save`.
+2. Add `import FlipToggle from 'react-native-accessible-switch-button'` in your react-native application's source code.  
 
 ## Getting Started
 import the FlipToggle component into your app's js file.

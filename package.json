@@ -1,7 +1,7 @@
 {
   "name": "react-native-accessible-switch-button",
   "version": "1.0.1",
-  "description": "A cross-platform customisable accessible toggle button built upon react-native's TouchableOpacity and Animated APIs",
+  "description": "A cross-platform customisable accessible toggle/switch button built upon react-native's TouchableOpacity and Animated APIs",
   "main": "FlipToggle.js",
   "repository": "git@github.com:asgupta9/react-native-switch-button.git",
   "author": "Akash Gupta <gupta.9@iitj.ac.in>",

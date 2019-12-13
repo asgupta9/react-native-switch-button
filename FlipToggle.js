@@ -1,7 +1,7 @@
 /**
  * react-native-switch-button
- * A cross-platform customisable accessible toggle button built upon react-native's TouchableOpacity and Animated APIs
- * https://github.com/asgupta9/react-native-switch-button
+ * A cross-platform customisable accessible toggle/switch button built upon react-native's TouchableOpacity and Animated APIs
+ * https://github.com/asgupta9/react-native-accessible-switch-button
  * Email:gupta.9@iitj.ac.in
  * @asgupta9
  */
